@@ -1,0 +1,9 @@
+{
+  "name": "shakti",
+  "version": "0.0.1",
+  "description": "yet another redis based pubsub",
+  "dependencies": {
+    "hiredis": "*",
+    "redis": "*"
+  }
+}
